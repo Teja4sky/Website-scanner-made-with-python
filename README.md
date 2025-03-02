@@ -81,5 +81,5 @@ The scanner calculates an estimated **vulnerability percentage** based on open p
 
 ---
 **🌟 Feel free to contribute and improve this tool!**
-🔗 **GitHub:** [Your Repo Link Here]
+🔗 **GitHub:** [https://github.com/Teja4sky/Website-scanner-made-with-python]
 
