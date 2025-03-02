@@ -1,0 +1,28 @@
+=== WEBSITE VULNERABILITY SCAN REPORT ===
+Scan Date: 2025-03-02 10:37:21
+
+🔹 Target Domain: www.youtube.com
+🔹 Target IP Address: 172.217.167.238
+🔹 Reverse DNS: del11s04-in-f14.1e100.net
+🔹 ISP: AS15169 Google LLC
+🔹 ASN: AS15169 Google LLC
+🔹 Hosting Provider: Google LLC
+
+🔍 Open Ports: 80, 443
+
+🔍 SQL Injection Vulnerability: ❌ No
+🔍 XSS Vulnerability: ❌ No
+
+[🔍] Web Server Security Headers:
+  X-Frame-Options: SAMEORIGIN
+  Strict-Transport-Security: max-age=31536000
+  Content-Security-Policy: require-trusted-types-for 'script'
+  Server: ESF
+
+=== HACKABILITY ASSESSMENT ===
+Overall Hackability: 8%
+Risk Level: Very Low
+
+Contributing Factors:
+- Open ports may increase attack surface (up to 20%)
+- Information disclosure through headers: Server
